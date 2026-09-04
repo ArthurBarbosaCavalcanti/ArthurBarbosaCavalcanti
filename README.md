@@ -36,6 +36,29 @@ Desenvolvedor de 19 anos, paraibano e estudante de Ciência da Computação na U
 
 ---
 
+### 📊 Estatísticas
+
+<p align="left">
+  <img 
+    align="left" 
+    alt="Estatísticas do GitHub" 
+    height="180" 
+    src="https://github-readme-stats-lecool9-projects.vercel.app/api?username=ArthurBarbosaCavalcanti&show_icons=true&theme=radical&locale=pt-br" 
+  />
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="180" 
+    src="https://github-readme-stats-lecool9-projects.vercel.app/api/top-langs/?username=ArthurBarbosaCavalcanti&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
+
+<br clear="all" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArthurBarbosaCavalcanti&theme=radical)
+
+---
+
 ### 📌 Projetos em Destaque
 
 1. **[Nome do Projeto em Python / IA](https://github.com/seu-usuario/nome-do-repositorio)**
@@ -50,5 +73,7 @@ Desenvolvedor de 19 anos, paraibano e estudante de Ciência da Computação na U
 
 ### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+Sinta-se à vontade para entrar em contato para projetos, networking ou apenas para trocar uma ideia sobre programação. Estou disponível para novas experiências e oporunidades na área de tecnologia.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-barbosa-cavalcanti/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurbarbosacavalcanti12@gmail.com)
