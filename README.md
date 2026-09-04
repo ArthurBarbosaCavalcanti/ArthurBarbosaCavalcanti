@@ -1,16 +1,54 @@
-## Hi there 👋
+# Olá, eu sou Arthur Barbosa! 👨🏽‍💻
 
-<!--
-**ArthurBarbosaCavalcanti/ArthurBarbosaCavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de 19 anos, paraibano e estudante de Ciência da Computação na UEPB. Curto pegar um problema real, quebrar em partes e resolver via código — seja estruturando uma lógica de dados ou conectando sistemas. Atualmente, foco meus estudos no desenvolvimento back-end com Python e Java, modelagem de dados em SQL e integração de APIs de IA, focando em criar aplicações práticas e escaláveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+
+-  **Formação:** Cursando **Ciência da Computação** na Universidade Estadual da Paraíba (UEPB)
+-  **Idiomas:** Inglês (Nível Intermediário) e Espanhol (Nível Básico)
+-  **Foco Principal:** Desenvolvimento em **Python** (minha linguagem favorita) e **Java**
+-  **Bancos de Dados & APIs:** Modelagem em SQL, consultas otimizadas e criação/integração de APIs RESTful
+-  **Web Front-End:** Conhecimentos práticos em HTML5, CSS3 e JavaScript
+-  **Interesses:** Automação, inteligência artificial, engenharia de software e lógica de programação
+-  **No Momento:** Aprofundando estudos em estruturas de dados, integração de modelos de IA e frameworks como Django, Flask e Spring Boot
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens & Banco de Dados:** 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+**Ferramentas & Frameworks:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### 📌 Projetos em Destaque
+
+1. **[Nome do Projeto em Python / IA](https://github.com/seu-usuario/nome-do-repositorio)**
+   - *Descrição:* Aplicação em Python que consome APIs de IA e grava histórico em banco de dados SQL.
+   - *Tecnologias:* Python, SQL, REST APIs
+
+2. **[Nome do Projeto Back-End Java](https://github.com/seu-usuario/nome-do-repositorio)**
+   - *Descrição:* API REST para gerenciamento de dados e regras de negócio.
+   - *Tecnologias:* Java, SQL, Git
+
+---
+
+### 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
